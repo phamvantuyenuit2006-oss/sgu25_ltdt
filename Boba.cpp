@@ -16,7 +16,8 @@ int main() {
             cnt[sub]++;
             res = max(res, cnt[sub]);
         }
-        cout << res << "\n";   // dùng đúng dấu ngoặc kép ASCII
+        cout << res << "\n";  
     }
     return 0;
 }
+
